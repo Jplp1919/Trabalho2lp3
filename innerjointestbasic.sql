@@ -1,0 +1,1 @@
+select * from escritor e inner join livros l on e.idescritor = l.idescritor
